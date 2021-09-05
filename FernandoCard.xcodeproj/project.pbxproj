@@ -14,6 +14,7 @@
 		4D25560F26E146A0001667F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D25560E26E146A0001667F0 /* Preview Assets.xcassets */; };
 		4D25561226E146A0001667F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D25561026E146A0001667F0 /* LaunchScreen.storyboard */; };
 		4D25561B26E14B27001667F0 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4D25561A26E14B26001667F0 /* Pacifico-Regular.ttf */; };
+		4DD72FE026E529D600F212EF /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD72FDF26E529D600F212EF /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4D25561126E146A0001667F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D25561326E146A0001667F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D25561A26E14B26001667F0 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
+		4DD72FDF26E529D600F212EF /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				4D25560526E1469C001667F0 /* AppDelegate.swift */,
 				4D25560726E1469C001667F0 /* SceneDelegate.swift */,
 				4D25560926E1469C001667F0 /* ContentView.swift */,
+				4DD72FDF26E529D600F212EF /* InfoView.swift */,
 				4D25560B26E146A0001667F0 /* Assets.xcassets */,
 				4D25561026E146A0001667F0 /* LaunchScreen.storyboard */,
 				4D25561326E146A0001667F0 /* Info.plist */,
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DD72FE026E529D600F212EF /* InfoView.swift in Sources */,
 				4D25560626E1469C001667F0 /* AppDelegate.swift in Sources */,
 				4D25560826E1469C001667F0 /* SceneDelegate.swift in Sources */,
 				4D25560A26E1469C001667F0 /* ContentView.swift in Sources */,
